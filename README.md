@@ -68,13 +68,17 @@ Hexagon (H) and its neighbouring hexagons (N)
 ## Note
 
 This can only generate infomation for these:
+```
  __
 /  \
 \__/
+```
 
 Not these:
+```
  /\
 |  |
  \/
+```
 
 I thought the first looks neater.
