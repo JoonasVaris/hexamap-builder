@@ -40,8 +40,11 @@ tiles if you count the diagonal ones.
 ```
 
 My solution to this is to place each row on its own Y-coordinate
+
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/53940550/183078704-64471237-38c4-4ab0-b52a-0e232bd93217.png">
+
 And use following notation:
+
 <img width="282" alt="image" src="https://user-images.githubusercontent.com/53940550/183078873-349305ba-613e-4175-ad7b-cebd56a5e12f.png">
 
 This way we end up occupying every other coordinate pair in xy-coordinates as illustrated below
